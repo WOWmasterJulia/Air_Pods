@@ -47,9 +47,9 @@ margin: 0 auto;
 .content-item{
   display: none;
 }
-.content-item.content-item__active{
+/* .content-item.content-item__active{
   display: inline-block;
-}
+} */
 .header{   
     min-height: 100vh;
     position: relative;
@@ -146,8 +146,7 @@ padding: 50px 55px;
 .composition {
   margin-bottom: 180px;
 }
-.container {
-}
+
 .composition__title {
   text-align: center;
 }
@@ -178,12 +177,7 @@ padding: 50px 55px;
   padding: 80px 0 100px;
   text-align: center;
 }
-.container {
-}
-.case__title {
-}
-.main__title {
-}
+
 .case_text {
   max-width: 825px;
   margin: 0 auto 40px;

@@ -9,7 +9,7 @@ function open(evt){
     const target = evt.currentTarget;
 
     chooseColor.forEach(function(item){
-        item.classList.remove('choose__color-btn--active')
+        item.classList.remove('choose__color-btn--active');
     })
-    target.classList.add('choose__color-btn--active')
+    target.classList.add('choose__color-btn--active');
 }
